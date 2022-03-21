@@ -1,14 +1,14 @@
 # JetFarms-Project
 UI of an ongoing farming and investment app
     
-Splashscreen Preview             |  Farm Advisory UI Preview
-:-------------------------------:|:-------------------------------:
-![Screenshot_20211231-113250](https://user-images.githubusercontent.com/52779676/147836024-41d67eb1-6b43-47ad-81d8-a59ad9ab78b1.png)  |  ![Screenshot_20220111-143434](https://user-images.githubusercontent.com/52779676/149092586-5b7efe8c-669e-42e2-8ea6-e65a36cfd56d.png)
+Splashscreen Preview             |  Login UI Preview               |  Dashboard UI Preview
+:-------------------------------:|:-------------------------------:|:-----------------------------------:
+![Screenshot_20220321-133926](https://user-images.githubusercontent.com/52779676/159263212-daa9e7bc-0604-4ba7-a2f1-7027941dac73.png)  |  ![Screenshot_20220321-131119](https://user-images.githubusercontent.com/52779676/159263516-c1777f6e-e383-46b9-a6ca-b90fe012582d.png)  | ![Screenshot_20220321-132419](https://user-images.githubusercontent.com/52779676/159263556-ddade451-364d-4fe4-aaf9-60fb27b33f31.png)
     
 
 
 
 Onboarding UI              |  Onboarding UI 2         |  Onboarding UI 3
 :-------------------------:|:-------------------------|:-------------------------:
-![Screenshot_20220111-143843](https://user-images.githubusercontent.com/52779676/149092621-ba13da08-97d2-4fe0-959e-b09b119694de.png)  |  ![Screenshot_20220111-143851](https://user-images.githubusercontent.com/52779676/149092640-f30d6fd8-b26a-4c5b-8d18-6669a16ce963.png)   |  ![Screenshot_20220111-143859](https://user-images.githubusercontent.com/52779676/149092671-675808c1-df0b-405e-987e-aee703cff297.png)
+![Screenshot_20220321-131042](https://user-images.githubusercontent.com/52779676/159263313-82e920f5-28cb-47ad-aad4-b01c85c46e67.png)  |  ![Screenshot_20220321-131053](https://user-images.githubusercontent.com/52779676/159263367-634f9489-2af3-4935-8113-fec5d48c108b.png)   |  ![Screenshot_20220321-132731](https://user-images.githubusercontent.com/52779676/159263427-37225bcc-a2b3-480a-b33c-6086d6706c00.png)
 
